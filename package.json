@@ -9,7 +9,7 @@
     "dotenv": "^8.0.0",
     "jquery": "^3.4.1",
     "mdbootstrap": "^4.8.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "parcel-bundler": "^1.12.3",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
